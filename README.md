@@ -26,8 +26,8 @@ I am passionate about building **scalable applications**, **data-driven solution
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?tramakrishna3012=your-github-tramakrishna3012&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?tramakrishna3012=your-github-tramakrishna3012&layout=compact&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tramakrishna3012&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tramakrishna3012&layout=compact&theme=default)  
 
 ---
 
